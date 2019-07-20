@@ -1,0 +1,12 @@
+model,Kaggle's Accuracy Feedback,GridSearch Validation Score
+Bench,70.00%,
+MNB,73.79%,74.24%
+LGBM,74.06%,
+RFC,75.91%,75.95%
+XGBoost,77.90%,77.10%
+SDG,78.06%,77.97%
+MLP,78.28%,78.11%
+LR_ova,78.62%,79.58%
+LR,78.66%,78.96%
+CNN,79.44%,79.75%
+SVM_ova,81.11%,80.82%
